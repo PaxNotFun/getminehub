@@ -1,0 +1,21 @@
+{
+  "name": "GetMineHub",
+  "outputfilename": "GetMineHub",
+  "frontend:install": "",
+  "frontend:build": "",
+  "frontend:dev:watcher": "",
+  "frontend:dev:serverUrl": "",
+  "wailsVersion": "v2.12.0",
+  "version": "2",
+  "info": {
+    "productName": "GetMineHub",
+    "productVersion": "5.0.10",
+    "copyright": "© 2024 GetMineHub",
+    "comments": "Gestor de Servidores Minecraft"
+  },
+  "assetdir": "frontend/dist",
+  "reloaddirs": "frontend/dist",
+  "build": {
+    "appid": "com.getminehub.app"
+  }
+}
