@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PaxNotFun/getminehub/main/getminehub.png" width="120" alt="GetMineHub Logo" />
+<img src="https://raw.githubusercontent.com/PaxNotFun/getminehub/refs/heads/main/getminehub.png" width="120" alt="GetMineHub Logo" />
 
 # GetMineHub
 
