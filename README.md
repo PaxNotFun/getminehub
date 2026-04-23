@@ -19,9 +19,9 @@ Instala, configura y administra servidores desde una interfaz visual. Sin comand
 
 | Sistema | Descarga |
 |---------|----------|
-| 🪟 **Windows** | [![Descargar para Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPaxNotFun%2Fgetminehub%2Fmain%2Fversion.json&query=%24.version&label=Windows%20.exe&prefix=v&color=0078D4&style=for-the-badge&logo=windows)](https://github.com/PaxNotFun/getminehub/raw/refs/heads/main/GetMineHub-5.0.10-Installer.exe) |
-| 🐧 **Linux (RPM)** — Fedora, RHEL, openSUSE | [![Descargar para Linux RPM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPaxNotFun%2Fgetminehub%2Fmain%2Fversion.json&query=%24.version&label=Linux%20.rpm&prefix=v&color=FCC624&style=for-the-badge&logo=linux&logoColor=black)](https://github.com/PaxNotFun/getminehub/raw/refs/heads/main/GetMineHub-5.0.10-Installer.rpm) |
-| 🐧 **Linux (DEB)** — Ubuntu, Debian, Mint | [![Descargar para Linux DEB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPaxNotFun%2Fgetminehub%2Fmain%2Fversion.json&query=%24.version&label=Linux%20.deb&prefix=v&color=A80030&style=for-the-badge&logo=debian&logoColor=white)](https://github.com/PaxNotFun/getminehub/raw/refs/heads/main/GetMineHub-5.0.10-Installer.deb) |
+| 🪟 **Windows** | [![Descargar para Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPaxNotFun%2Fgetminehub%2Fmain%2Fversion.json&query=%24.version&label=Windows%20.exe&prefix=v&color=0078D4&style=for-the-badge&logo=windows)](https://github.com/PaxNotFun/getminehub/releases/download/5.0.10/GetMineHub-5.0.10-Installer.exe) |
+| 🐧 **Linux (RPM)** — Fedora, RHEL, openSUSE | [![Descargar para Linux RPM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPaxNotFun%2Fgetminehub%2Fmain%2Fversion.json&query=%24.version&label=Linux%20.rpm&prefix=v&color=FCC624&style=for-the-badge&logo=linux&logoColor=black)](https://github.com/PaxNotFun/getminehub/releases/download/5.0.10/GetMineHub-5.0.10-Installer.rpm) |
+| 🐧 **Linux (DEB)** — Ubuntu, Debian, Mint | [![Descargar para Linux DEB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FPaxNotFun%2Fgetminehub%2Fmain%2Fversion.json&query=%24.version&label=Linux%20.deb&prefix=v&color=A80030&style=for-the-badge&logo=debian&logoColor=white)](https://github.com/PaxNotFun/getminehub/releases/download/5.0.10/GetMineHub-5.0.10-Installer.deb) |
 
 ---
 
